@@ -1,0 +1,16 @@
+{
+  "name": "viem-listen",
+  "version": "1.0.0",
+  "description": "监听 NFTMarket 合约链上事件的轻量工具",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "viem": "^2.50.4"
+  }
+}
